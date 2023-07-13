@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1E23FB8D-51AF-4C93-8DCF-87E56B946E4E}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Utilities/SerializatorFactory.cs">
+    <Files>
+      <File FileName="Program.cs" Line="140" Column="3" />
+      <File FileName="Repository/GalaxyMapRepository.cs" Line="15" Column="3" />
+      <File FileName="Utilities/LoggerConstants.cs" />
+      <File FileName="Contexts/GalaxyMapContext.cs" />
+      <File FileName="Repository/IGalaxyMapRepository.cs" />
+      <File FileName="Models/BlackHole.cs" Line="26" Column="6" />
+      <File FileName="Utilities/PhysicalConstants.cs" />
+      <File FileName="Utilities/MathService.cs" />
+      <File FileName="Models/UniverseObject.cs" Line="72" Column="19" />
+      <File FileName="Models/UniverseObjectType.cs" Line="21" Column="2" />
+      <File FileName="Models/Planet.cs" Line="8" Column="2" />
+      <File FileName="log20230713.txt" Line="1" Column="1" />
+      <File FileName="Models/NaturalSatelite.cs" Line="10" Column="22" />
+      <File FileName="Models/Star.cs" Line="17" Column="10" />
+      <File FileName="Models/StarType.cs" Line="6" Column="7" />
+      <File FileName="Utilities/SerializatorFactory.cs" Line="59" Column="34" />
+      <File FileName="Utilities/SerializatorType.cs" Line="7" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GalaxyMap">
+            <Node name="GalaxyMap" selected="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GalaxyMap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
