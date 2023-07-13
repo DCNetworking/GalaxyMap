@@ -7,7 +7,7 @@ namespace GalaxyMap.Models
     /// <summary>
     /// Represents an abstract object in the universe.
     /// </summary>
-    [CreateTable("universe-objects")]
+    [CreateTable("universe_objects")]
     public abstract class UniverseObject
     {
         static int _id = 1;
